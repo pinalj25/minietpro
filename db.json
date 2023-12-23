@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "pinaljain1@gmail.com",
+      "mobileNo": "09892628518",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 1
+    },
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "jain@gmail.com",
+      "mobileNo": "9892458518",
+      "password": "Pinalj@2501",
+      "confirmPassword": "Pinalj@2501",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
